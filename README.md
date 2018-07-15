@@ -864,7 +864,7 @@ Here are a few more advanced Unix commands that are very useful and when you hav
 ---
 
 
-### [Link to Unix 1 Problem Set](https://github.com/srobb1/pfb2017/blob/master/problemsets/problemsets/Unix_01_problemset.md)
+### [Link to Unix 1 Problem Set](https://github.com/srobb1/pfb2017/blob/master/problemsets/Unix_01_problemset.md)
 
 ---
 # Unix 2
